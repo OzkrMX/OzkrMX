@@ -1,0 +1,28 @@
+{
+  "name": "ozkrmx-agent-chat-space",
+  "version": "1.0.0",
+  "description": "Un modelo creativo para desarrollo de proyectos basado en espacios de chat con agentes / A creative model for project development based on agent chat spaces",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "agent",
+    "chat",
+    "creative-model",
+    "development-framework",
+    "ai-assistant"
+  ],
+  "author": "OzkrMX",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "readline": "^1.0.0"
+  },
+  "devDependencies": {}
+}
